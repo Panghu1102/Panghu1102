@@ -30,7 +30,7 @@ doesn't work as expected. A lot of my projects started with a simple
 
 ### [JYACS](https://github.com/Panghu1102/JYACS)
 
-An AI-powered chat submod for **Doki Doki Literature Club!** / Ren'Py.
+An AI-powered chat submod for Ren'Py.
 
 JYACS explores the possibilities of integrating AI-powered conversations
 into Ren'Py-based games, with a focus on creating a more interactive experience.
@@ -126,7 +126,7 @@ Thanks for stopping by! 👋
 
 ### [JYACS](https://github.com/Panghu1102/JYACS)
 
-一个面向 **Doki Doki Literature Club! / Ren'Py** 的 AI 聊天 Submod。
+一个面向Ren'Py** 的 AI 聊天 Submod。
 
 JYACS 主要探索将 AI 驱动的对话能力加入 Ren'Py 游戏的可能性，
 尝试让游戏中的角色拥有更加互动化的聊天体验。
