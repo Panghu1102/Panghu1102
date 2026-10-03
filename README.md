@@ -5,7 +5,7 @@ Welcome to my GitHub.
 I'm a student and developer who enjoys exploring technology, building things,
 and documenting what I learn along the way.
 
-My interests mainly include **network security**, **AI and large language models**,
+My interests mainly include **Serverless Platform**,**network security**, **AI and large language models**,
 web development, Cloudflare, iOS, Windows, virtualization, and all kinds of
 interesting software and hardware experiments.
 
@@ -96,7 +96,7 @@ Thanks for stopping by! 👋
 
 我是一名学生，也是一名喜欢折腾各种东西的开发者。
 
-我主要研究 **网络安全** 以及 **AI 大模型在不同领域中的应用**，
+我主要研究 **无服务器及边缘计算**,**网络安全** 以及 **AI 大模型在不同领域中的应用**，
 同时也会探索 Web 开发、Cloudflare、iOS、Windows、虚拟机，以及各种
 有意思的软件和硬件实验。
 
